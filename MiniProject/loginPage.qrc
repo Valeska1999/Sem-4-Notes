@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>clgBuilding.jpeg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>back.jpeg</file>
+  </qresource>
+</RCC>
